@@ -4,14 +4,14 @@
 
 Highlights:
 
-- 🔐 Signup, Login, and 6-Digit Email Verification with **Clerk**
-- 🍳 Browse Featured Recipes & Filter by Categories
-- 🔍 Search Recipes and View Detailed Cooking Instructions
-- 🎥 Recipe Pages Include YouTube Video Tutorials
-- ❤️ Add Recipes to Favorites and Access Them from Favorites Tab
-- ⚡ Tech Stack: React Native + Express + PostgreSQL + Expo
-- 🌈 Includes 8 Color Themes
-- 🆓 100% Free Tools — No Paid Services Required
+- 🔐 **Secure Login & Signup** with Clerk Authentication
+- 📊 **Compare Smartphone Features** Side-by-Side
+- 🔍 **Search Phones** with Instant Suggestions
+- 📷 View Full-Resolution Images of Smartphones
+- 💾 Save Favorite Comparisons
+- 🌙 8 **Color Themes** for Better User Experience
+- 🧩 Built with **React Native**, **Express**, **PostgreSQL**, and **Expo**
+- 🆓 100% Free — No Paid APIs or Services Used
 
 ---
 
